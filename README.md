@@ -1,1 +1,2 @@
-Anki Configs and my complete Deck.
+- Anki Add On's 
+- Anki Decks
