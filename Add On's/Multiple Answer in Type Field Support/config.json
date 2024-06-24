@@ -1,0 +1,11 @@
+{
+    "Enable Answer Choice Comments [...]": false,
+    "Enable Answer Comments (...)": false,
+    "Enable Lenient Validation": true,
+    "Equivalent Strings": [],
+    "Ignore Case": true,
+    "Ignore Separators in Brackets": true,
+    "Ignored Characters": " .-",
+    "Numeric Comparison Factor": 1.0,
+    "Separators": ";,"
+}
